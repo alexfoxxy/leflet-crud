@@ -266,7 +266,7 @@ svg.leaflet-zoom-animated {
 /* cursors */
 
 .leaflet-interactive {
-	cursor: pointer;
+	cursor: default;
 }
 
 .leaflet-grab {
